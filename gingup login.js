@@ -1,5 +1,5 @@
 VANTA.BIRDS({
-    el: "#ani",
+    el: ".main",
     mouseControls: true,
     touchControls: true,
     gyroControls: false,
