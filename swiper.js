@@ -4,6 +4,6 @@ let swiper=new swiper(".swiper",{
         nextE1: ".swiper-button-prev"
 }
 autoplay:{
-    delay
+    delay:2000
 }
 })
